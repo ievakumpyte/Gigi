@@ -1,0 +1,1192 @@
+fileFormatVersion: 2
+guid: 6c118facb8db74749a5f2d6a3837ff73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4452207833301445072
+    second: kambariux geltons1_0
+  - first:
+      213: 8337487526611686088
+    second: kambariux geltons1_1
+  - first:
+      213: -6220741645111612093
+    second: kambariux geltons1_2
+  - first:
+      213: -7583637545264055833
+    second: kambariux geltons1_3
+  - first:
+      213: 7792495321287222281
+    second: kambariux geltons1_4
+  - first:
+      213: 1090674348623515960
+    second: kambariux geltons1_5
+  - first:
+      213: -1826407025851093556
+    second: kambariux geltons1_6
+  - first:
+      213: -6602388008214565101
+    second: kambariux geltons1_7
+  - first:
+      213: -8686964686724175462
+    second: kambariux geltons1_8
+  - first:
+      213: -733952544705359892
+    second: kambariux geltons1_9
+  - first:
+      213: -1502966133854231620
+    second: kambariux geltons1_10
+  - first:
+      213: -8757392883905056903
+    second: kambariux geltons1_11
+  - first:
+      213: 7620808239973954225
+    second: kambariux geltons1_12
+  - first:
+      213: 7643725399142557528
+    second: kambariux geltons1_13
+  - first:
+      213: -3348015030838329597
+    second: kambariux geltons1_14
+  - first:
+      213: -4473136168331492503
+    second: kambariux geltons1_15
+  - first:
+      213: -839694559369469288
+    second: kambariux geltons1_16
+  - first:
+      213: 1647737880045766001
+    second: kambariux geltons1_17
+  - first:
+      213: 8892107092071622525
+    second: kambariux geltons1_18
+  - first:
+      213: -5714800804459338351
+    second: kambariux geltons1_19
+  - first:
+      213: 5669852130987883772
+    second: kambariux geltons1_20
+  - first:
+      213: -6724873630590260783
+    second: kambariux geltons1_21
+  - first:
+      213: 5995350312883036757
+    second: kambariux geltons1_22
+  - first:
+      213: -4082619674637506496
+    second: kambariux geltons1_23
+  - first:
+      213: -8888717868524659271
+    second: kambariux geltons1_24
+  - first:
+      213: -4042393974762791857
+    second: kambariux geltons1_25
+  - first:
+      213: 1429448377743269781
+    second: kambariux geltons1_26
+  - first:
+      213: -3032993873736794784
+    second: kambariux geltons1_27
+  - first:
+      213: 1740341676225095235
+    second: kambariux geltons1_28
+  - first:
+      213: 7696983212387510949
+    second: kambariux geltons1_29
+  - first:
+      213: 8519391416855241780
+    second: kambariux geltons1_30
+  - first:
+      213: -8962357484164527616
+    second: kambariux geltons1_31
+  - first:
+      213: -5799326264985186908
+    second: kambariux geltons1_32
+  - first:
+      213: -13303555792565742
+    second: kambariux geltons1_33
+  - first:
+      213: 4614124972070970495
+    second: kambariux geltons1_34
+  - first:
+      213: 7615636319650507701
+    second: kambariux geltons1_35
+  - first:
+      213: 5222001879677320560
+    second: kambariux geltons1_36
+  - first:
+      213: 3757278327441119190
+    second: kambariux geltons1_37
+  - first:
+      213: 3354582373987865986
+    second: kambariux geltons1_38
+  - first:
+      213: -8258857413296080505
+    second: kambariux geltons1_39
+  - first:
+      213: -5907976020361537229
+    second: kambariux geltons1_40
+  - first:
+      213: 3726822089644076960
+    second: kambariux geltons1_41
+  - first:
+      213: -29459937131953304
+    second: kambariux geltons1_42
+  - first:
+      213: 4761927558804754397
+    second: kambariux geltons1_43
+  - first:
+      213: 1429286471716060178
+    second: kambariux geltons1_44
+  - first:
+      213: -5957606803531186703
+    second: kambariux geltons1_45
+  - first:
+      213: 3235920600595971155
+    second: kambariux geltons1_46
+  - first:
+      213: -6098565559156456024
+    second: kambariux geltons1_47
+  - first:
+      213: 4850663666823144285
+    second: kambariux geltons1_48
+  - first:
+      213: 7198907007802443788
+    second: kambariux geltons1_49
+  - first:
+      213: 8551164835291201787
+    second: kambariux geltons1_50
+  - first:
+      213: -5481057850786034967
+    second: kambariux geltons1_51
+  - first:
+      213: -4438572956080499074
+    second: kambariux geltons1_52
+  - first:
+      213: 54234935739704928
+    second: kambariux geltons1_53
+  - first:
+      213: -4889543333599900127
+    second: kambariux geltons1_54
+  - first:
+      213: 138548503050384458
+    second: kambariux geltons1_55
+  - first:
+      213: -7285987952696058221
+    second: kambariux geltons1_56
+  - first:
+      213: -4360646896408310708
+    second: kambariux geltons1_57
+  - first:
+      213: 6441404644389831169
+    second: kambariux geltons1_58
+  - first:
+      213: -5314937120231249371
+    second: kambariux geltons1_59
+  - first:
+      213: -196107126814225216
+    second: kambariux geltons1_60
+  - first:
+      213: -1473172612061077669
+    second: kambariux geltons1_61
+  - first:
+      213: -5364634743812897799
+    second: kambariux geltons1_62
+  - first:
+      213: -1613178747594765681
+    second: kambariux geltons1_63
+  - first:
+      213: 4761257876498019993
+    second: kambariux geltons1_64
+  - first:
+      213: 4890530073610775818
+    second: kambariux geltons1_65
+  - first:
+      213: 2017514036913831174
+    second: kambariux geltons1_66
+  - first:
+      213: -4091928883211643697
+    second: kambariux geltons1_67
+  - first:
+      213: -1870045984593033532
+    second: kambariux geltons1_68
+  - first:
+      213: -5141406933829355862
+    second: kambariux geltons1_69
+  - first:
+      213: 7051166994930470075
+    second: kambariux geltons1_70
+  - first:
+      213: -5597327440888886411
+    second: kambariux geltons1_71
+  - first:
+      213: 8916274139762364850
+    second: kambariux geltons1_72
+  - first:
+      213: 1918292057417595039
+    second: kambariux geltons1_73
+  - first:
+      213: 6742556709597517111
+    second: kambariux geltons1_74
+  - first:
+      213: -1114237677421546567
+    second: kambariux geltons1_75
+  - first:
+      213: -8614247858109066492
+    second: kambariux geltons1_76
+  - first:
+      213: 8468178396174465046
+    second: kambariux geltons1_77
+  - first:
+      213: 1293535367000712285
+    second: kambariux geltons1_78
+  - first:
+      213: -7210669486219377249
+    second: kambariux geltons1_79
+  - first:
+      213: 4801170249528296339
+    second: kambariux geltons1_80
+  - first:
+      213: -8434062004727286064
+    second: kambariux geltons1_81
+  - first:
+      213: 1115024546893668532
+    second: kambariux geltons1_82
+  - first:
+      213: -6629946454132682133
+    second: kambariux geltons1_83
+  - first:
+      213: 3544638415793776725
+    second: kambariux geltons1_84
+  - first:
+      213: 1781290046333699350
+    second: kambariux geltons1_85
+  - first:
+      213: -6810062267886045653
+    second: kambariux geltons1_86
+  - first:
+      213: 6670201337567789825
+    second: kambariux geltons1_87
+  - first:
+      213: 2235444957231617634
+    second: kambariux geltons1_88
+  - first:
+      213: 6998840860781552598
+    second: kambariux geltons1_89
+  - first:
+      213: 5681867011257757415
+    second: kambariux geltons1_90
+  - first:
+      213: 5736177467740263742
+    second: kambariux geltons1_91
+  - first:
+      213: 5379053594477585497
+    second: kambariux geltons1_92
+  - first:
+      213: 4238138231409243909
+    second: kambariux geltons1_93
+  - first:
+      213: 3431366121947176555
+    second: kambariux geltons1_94
+  - first:
+      213: -2471742546902839949
+    second: kambariux geltons1_95
+  - first:
+      213: -1837958893422509829
+    second: kambariux geltons1_96
+  - first:
+      213: 2185574967462473248
+    second: kambariux geltons1_97
+  - first:
+      213: 3234213676188955900
+    second: kambariux geltons1_98
+  - first:
+      213: -2800247647406684556
+    second: kambariux geltons1_99
+  - first:
+      213: 8404623160600131650
+    second: kambariux geltons1_100
+  - first:
+      213: -4189146537263994844
+    second: kambariux geltons1_101
+  - first:
+      213: 6685939696004802477
+    second: kambariux geltons1_102
+  - first:
+      213: -6419969552822195180
+    second: kambariux geltons1_103
+  - first:
+      213: 8108206728849859357
+    second: kambariux geltons1_104
+  - first:
+      213: -2329461563190016068
+    second: kambariux geltons1_105
+  - first:
+      213: -4915066047724915899
+    second: kambariux geltons1_106
+  - first:
+      213: 8609435180099293031
+    second: kambariux geltons1_107
+  - first:
+      213: 7513620196347669674
+    second: kambariux geltons1_108
+  - first:
+      213: 9188554660985285734
+    second: kambariux geltons1_109
+  - first:
+      213: 1601144203552654807
+    second: kambariux geltons1_110
+  - first:
+      213: -1214941097042949523
+    second: kambariux geltons1_111
+  - first:
+      213: -3403180612004480366
+    second: kambariux geltons1_112
+  - first:
+      213: -5589366542486487827
+    second: kambariux geltons1_113
+  - first:
+      213: 6569432189021133414
+    second: kambariux geltons1_114
+  - first:
+      213: -3122337964547275187
+    second: kambariux geltons1_115
+  - first:
+      213: 3068673296362315612
+    second: kambariux geltons1_116
+  - first:
+      213: 1707291902151373048
+    second: kambariux geltons1_117
+  - first:
+      213: 7712522131549392820
+    second: kambariux geltons1_118
+  - first:
+      213: -5042115259000516459
+    second: kambariux geltons1_119
+  - first:
+      213: -6552311173990335721
+    second: kambariux geltons1_120
+  - first:
+      213: 547799004703554761
+    second: kambariux geltons1_121
+  - first:
+      213: 3947525199730829882
+    second: kambariux geltons1_122
+  - first:
+      213: 8758280992286932018
+    second: kambariux geltons1_123
+  - first:
+      213: 1969581365254010274
+    second: kambariux geltons1_124
+  - first:
+      213: 2721579962181694037
+    second: kambariux geltons1_125
+  - first:
+      213: -8311989186641059724
+    second: kambariux geltons1_126
+  - first:
+      213: -4719479270435456779
+    second: kambariux geltons1_127
+  - first:
+      213: 6912127227162087586
+    second: kambariux geltons1_128
+  - first:
+      213: 8169401738948564367
+    second: kambariux geltons1_129
+  - first:
+      213: 14084404979064541
+    second: kambariux geltons1_130
+  - first:
+      213: -1866063944185138668
+    second: kambariux geltons1_131
+  - first:
+      213: -5006810807422489046
+    second: kambariux geltons1_132
+  - first:
+      213: -2097829518482769894
+    second: kambariux geltons1_133
+  - first:
+      213: 5328896461728590863
+    second: kambariux geltons1_134
+  - first:
+      213: -99793837271234970
+    second: kambariux geltons1_135
+  - first:
+      213: -8406129907433798046
+    second: kambariux geltons1_136
+  - first:
+      213: -4280991484497161246
+    second: kambariux geltons1_137
+  - first:
+      213: -3650392584403200789
+    second: kambariux geltons1_138
+  - first:
+      213: 5834602890693542570
+    second: kambariux geltons1_139
+  - first:
+      213: -5137912684487250654
+    second: kambariux geltons1_140
+  - first:
+      213: 2800763928953201076
+    second: kambariux geltons1_141
+  - first:
+      213: 4145248768382537577
+    second: kambariux geltons1_142
+  - first:
+      213: -2145916013700046554
+    second: kambariux geltons1_143
+  - first:
+      213: 5632816018936779661
+    second: kambariux geltons1_144
+  - first:
+      213: 2181836222616169159
+    second: kambariux geltons1_145
+  - first:
+      213: 7236530346167586665
+    second: kambariux geltons1_146
+  - first:
+      213: -6579509611646717411
+    second: kambariux geltons1_147
+  - first:
+      213: 5048054930349217507
+    second: kambariux geltons1_148
+  - first:
+      213: -5041434250867628459
+    second: kambariux geltons1_149
+  - first:
+      213: -5342251992114161021
+    second: kambariux geltons1_150
+  - first:
+      213: 4684738215788955302
+    second: kambariux geltons1_151
+  - first:
+      213: 4388015432990214850
+    second: kambariux geltons1_152
+  - first:
+      213: -913792549870656601
+    second: kambariux geltons1_153
+  - first:
+      213: -972963099132025278
+    second: kambariux geltons1_154
+  - first:
+      213: -8956054121668293904
+    second: kambariux geltons1_155
+  - first:
+      213: 5913565188564016735
+    second: kambariux geltons1_156
+  - first:
+      213: 7848806500748085302
+    second: kambariux geltons1_157
+  - first:
+      213: 2044121649202373674
+    second: kambariux geltons1_158
+  - first:
+      213: -7085421003181819371
+    second: kambariux geltons1_159
+  - first:
+      213: -4739047735564725700
+    second: kambariux geltons1_160
+  - first:
+      213: -4076003424116951109
+    second: kambariux geltons1_161
+  - first:
+      213: -2533175309791970974
+    second: kambariux geltons1_162
+  - first:
+      213: -6498315594912018769
+    second: kambariux geltons1_163
+  - first:
+      213: -2460393827379868222
+    second: kambariux geltons1_164
+  - first:
+      213: 565053299476510841
+    second: kambariux geltons1_165
+  - first:
+      213: 5546574997177655275
+    second: kambariux geltons1_166
+  - first:
+      213: -2698600117217517389
+    second: kambariux geltons1_167
+  - first:
+      213: 4522838778612811325
+    second: kambariux geltons1_168
+  - first:
+      213: 7497033645776062349
+    second: kambariux geltons1_169
+  - first:
+      213: 8123122052315664674
+    second: kambariux geltons1_170
+  - first:
+      213: -7292790895907416446
+    second: kambariux geltons1_171
+  - first:
+      213: -6625034932393553964
+    second: kambariux geltons1_172
+  - first:
+      213: -450180751929237785
+    second: kambariux geltons1_173
+  - first:
+      213: -8929796769536309514
+    second: kambariux geltons1_174
+  - first:
+      213: -6456357157373483115
+    second: kambariux geltons1_175
+  - first:
+      213: -3641291116060652596
+    second: kambariux geltons1_176
+  - first:
+      213: -5966231294853387251
+    second: kambariux geltons1_177
+  - first:
+      213: 7584920447772375861
+    second: kambariux geltons1_178
+  - first:
+      213: -2345527895438165932
+    second: kambariux geltons1_179
+  - first:
+      213: -4743430814227149537
+    second: kambariux geltons1_180
+  - first:
+      213: -3473973395701836092
+    second: kambariux geltons1_181
+  - first:
+      213: -239088951636312296
+    second: kambariux geltons1_182
+  - first:
+      213: -4163055442686500411
+    second: kambariux geltons1_183
+  - first:
+      213: 4152363748626279310
+    second: kambariux geltons1_184
+  - first:
+      213: -2537412340746713533
+    second: kambariux geltons1_185
+  - first:
+      213: 654121001767363134
+    second: kambariux geltons1_186
+  - first:
+      213: -3898779877307062519
+    second: kambariux geltons1_187
+  - first:
+      213: -5694227281959200668
+    second: kambariux geltons1_188
+  - first:
+      213: -6153571616481119991
+    second: kambariux geltons1_189
+  - first:
+      213: 5531410706391461911
+    second: kambariux geltons1_190
+  - first:
+      213: -9054508163803174499
+    second: kambariux geltons1_191
+  - first:
+      213: 6994099590305205291
+    second: kambariux geltons1_192
+  - first:
+      213: 1402886371274207211
+    second: kambariux geltons1_193
+  - first:
+      213: 6975037468273786106
+    second: kambariux geltons1_194
+  - first:
+      213: 8974111355395188425
+    second: kambariux geltons1_195
+  - first:
+      213: 616065898347592768
+    second: kambariux geltons1_196
+  - first:
+      213: -3256511654971219575
+    second: kambariux geltons1_197
+  - first:
+      213: 2323151881677429443
+    second: kambariux geltons1_198
+  - first:
+      213: -711748804701028441
+    second: kambariux geltons1_199
+  - first:
+      213: -2801108208066775374
+    second: kambariux geltons1_200
+  - first:
+      213: -561353572527099514
+    second: kambariux geltons1_201
+  - first:
+      213: -6278705455957281764
+    second: kambariux geltons1_202
+  - first:
+      213: -2320927806182107137
+    second: kambariux geltons1_203
+  - first:
+      213: -4738395568053765138
+    second: kambariux geltons1_204
+  - first:
+      213: 7500335268888413612
+    second: kambariux geltons1_205
+  - first:
+      213: -820654428637702310
+    second: kambariux geltons1_206
+  - first:
+      213: -7281171096931697716
+    second: kambariux geltons1_207
+  - first:
+      213: -1093879810846335282
+    second: kambariux geltons1_208
+  - first:
+      213: -2767358899380408058
+    second: kambariux geltons1_209
+  - first:
+      213: -8518229175268230109
+    second: kambariux geltons1_210
+  - first:
+      213: 6385246293674821391
+    second: kambariux geltons1_211
+  - first:
+      213: -6230830830829533759
+    second: kambariux geltons1_212
+  - first:
+      213: 6243533705480875739
+    second: kambariux geltons1_213
+  - first:
+      213: -4739586746532290606
+    second: kambariux geltons1_214
+  - first:
+      213: -664126627539814882
+    second: kambariux geltons1_215
+  - first:
+      213: 4300560521987194661
+    second: kambariux geltons1_216
+  - first:
+      213: 2736193681589972980
+    second: kambariux geltons1_217
+  - first:
+      213: 1227813238358631950
+    second: kambariux geltons1_218
+  - first:
+      213: -1511326867512304246
+    second: kambariux geltons1_219
+  - first:
+      213: 7677336063131246380
+    second: kambariux geltons1_220
+  - first:
+      213: 2520733579412519287
+    second: kambariux geltons1_221
+  - first:
+      213: -589167674873188732
+    second: kambariux geltons1_222
+  - first:
+      213: 1957455567065601027
+    second: kambariux geltons1_223
+  - first:
+      213: 6823211839785766129
+    second: kambariux geltons1_224
+  - first:
+      213: 3187907439517092353
+    second: kambariux geltons1_225
+  - first:
+      213: -2428913197036950642
+    second: kambariux geltons1_226
+  - first:
+      213: 3081791540287368796
+    second: kambariux geltons1_227
+  - first:
+      213: 3989885579092974412
+    second: kambariux geltons1_228
+  - first:
+      213: 4715461411792392920
+    second: kambariux geltons1_229
+  - first:
+      213: -7246973394733972789
+    second: kambariux geltons1_230
+  - first:
+      213: 6192881556539828980
+    second: kambariux geltons1_231
+  - first:
+      213: 838371825791841927
+    second: kambariux geltons1_232
+  - first:
+      213: -1519561100330007715
+    second: kambariux geltons1_233
+  - first:
+      213: 3370364231245656353
+    second: kambariux geltons1_234
+  - first:
+      213: -4134748386866890205
+    second: kambariux geltons1_235
+  - first:
+      213: -899627310307767577
+    second: kambariux geltons1_236
+  - first:
+      213: 7657514918190881285
+    second: kambariux geltons1_237
+  - first:
+      213: -5719810051675594091
+    second: kambariux geltons1_238
+  - first:
+      213: -7074478203856819000
+    second: kambariux geltons1_239
+  - first:
+      213: 2046003226085502201
+    second: kambariux geltons1_240
+  - first:
+      213: -4160868277258090064
+    second: kambariux geltons1_241
+  - first:
+      213: -8289509799073148657
+    second: kambariux geltons1_242
+  - first:
+      213: 4114673136496000593
+    second: kambariux geltons1_243
+  - first:
+      213: -4393899020799319104
+    second: kambariux geltons1_244
+  - first:
+      213: -375337516815302572
+    second: kambariux geltons1_245
+  - first:
+      213: -1769680003474515077
+    second: kambariux geltons1_246
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kambariux geltons1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3256.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0361bdd70949632c0800000000000000
+      internalID: -4452207833301445072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_1
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 3256.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c290f64bb4b4b370800000000000000
+      internalID: 8337487526611686088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_2
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 3256.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34da4a3ce6c7ba9a0800000000000000
+      internalID: -6220741645111612093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_3
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 3256.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9783915d181c690800000000000000
+      internalID: -7583637545264055833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2171.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904e7335531842c60800000000000000
+      internalID: 7792495321287222281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_5
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2171.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831d55b9a8ad22f00800000000000000
+      internalID: 1090674348623515960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_6
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 2171.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd2ed89c7c47a6e0800000000000000
+      internalID: -1826407025851093556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_7
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 2171.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f6215661b9f54a0800000000000000
+      internalID: -6602388008214565101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1086.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99617794a3b17780800000000000000
+      internalID: -8686964686724175462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_9
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1086.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefc7da9c0a70d5f0800000000000000
+      internalID: -733952544705359892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_10
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 1086.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb32d2aa344642be0800000000000000
+      internalID: -1502966133854231620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_11
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 1094
+        width: 1538
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f2e4c129d777680800000000000000
+      internalID: -8757392883905056903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2740da7bc82c960800000000000000
+      internalID: 7620808239973954225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_13
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857e58890c7f31a60800000000000000
+      internalID: 7643725399142557528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_14
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 1.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f763861167981d0800000000000000
+      internalID: -3348015030838329597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kambariux geltons1_15
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 1.5
+        width: 1537.5
+        height: 1085.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96346a6ca5a3ce1c0800000000000000
+      internalID: -4473136168331492503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
